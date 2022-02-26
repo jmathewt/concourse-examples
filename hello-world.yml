@@ -50,4 +50,3 @@ jobs:
               - |
                 ls -l
                 cat the-artifact/message
-                
